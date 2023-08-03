@@ -1,16 +1,17 @@
 {
   "AdsController": {
     "adNetwork": "applovin",
-    "admobBanner": "ca-app-pub-5155574154806854/3310897610",
-    "admobInterstitial": "ca-app-pub-5155574154806854/7058570936",
-    "AdmobNative": "ca-app-pub-5155574154806854/1806244259",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "AdmobNative": "",
     "applovinBanner": "89a9184e8a2d9343",
     "applovinInterstitial": "6168b3da3b08f37e",
     "ApplovinNative": "e6f95643a1ac0b3d",
-    "unityGameId": "",
-    "testMode": false,
-    "unityBanner": "",
-    "unityInterstitial": "",
+    "IMG1_URL": "https://app3-happygaming.netlify.app/native1.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.retrogames.deeersimulatorgame.deersimulator.DEEEERSimulator",
+    "IMG2_URL": "https://app3-happygaming.netlify.app/native2.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.retrogamez.thormarvels.thorgame",
+    "modeads": false,
     "RatingActive": true
   }
 }
