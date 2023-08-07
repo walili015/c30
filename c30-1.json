@@ -1,17 +1,17 @@
 {
   "AdsController": {
-    "adNetwork": "applovinadmob",
-    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "adNetwork": "applovin",
+    "admobBanner": "",
     "admobInterstitial": "",
     "AdmobNative": "",
-    "applovinBanner": "89a9184e8a2d9343",
-    "applovinInterstitial": "6168b3da3b08f37e",
-    "ApplovinNative": "e6f95643a1ac0b3d",
-    "IMG1_URL": "https://app3-happygaming.netlify.app/native1.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.retrogames.deeersimulatorgame.deersimulator.DEEEERSimulator",
-    "IMG2_URL": "https://app3-happygaming.netlify.app/native2.png",
-    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.retrogamez.thormarvels.thorgame",
-    "modeads": false,
-    "RatingActive": true
+    "applovinBanner": "391e5ae48513d560",
+    "applovinInterstitial": "df6962bc28432272",
+    "ApplovinNative": "24b7125e44388fa1",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXX",
+    "modeads": true,
+    "IMG1_URL": "https://c29.netlify.app/c29-7.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.yokiwallpaper.whoisyourdaddy2"
   }
 }
