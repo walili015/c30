@@ -1,16 +1,15 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
-    "admobBanner": "ca-app-pub-5155574154806854/7448936251",
-    "admobInterstitial": "ca-app-pub-5155574154806854/9301590896",
-    "AdmobNative": "ca-app-pub-5155574154806854/5362345880",
-    "applovinBanner": "89a9184e8a2d9343",
+    "adNetwork": "mixed",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "",
+    "applovinBanner": "",
     "applovinInterstitial": "48d4dcfca14e49e1",
-    "ApplovinNative": "e6f95643a1ac0b3d",
-    "unityGameId": "",
-    "testMode": false,
-    "unityBanner": "",
-    "unityInterstitial": "",
-    "RatingActive": true
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    "modeads": false,
+    "IMG1_URL": "https://c30.netlify.app/c30-XX.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX"
   }
 }
