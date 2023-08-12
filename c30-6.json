@@ -8,8 +8,8 @@
     "ratingactive": true,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
-    "modeads": false,
-    "IMG1_URL": "https://c30.netlify.app/c30-XX.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX"
+    "modeads": true,
+    "IMG1_URL": "https://c30.netlify.app/c30-2.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.pizzatower.peppino_pizza.pizza_town_tepaty"
   }
 }
