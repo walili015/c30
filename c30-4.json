@@ -8,7 +8,7 @@
     "ratingactive": true,
     "appsuspand": true,
     "appURL": "https://play.google.com/store/apps/details?id=com.wallerswalls_badbabby.whoisyourdaddy2wallpapers",
-    "modeads": true,
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.bad_babby_images_whoisyourdaddy"
   }
