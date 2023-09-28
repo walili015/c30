@@ -10,6 +10,12 @@
     "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.kiddiekode.whosyourdaddyandbaby"
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.kiddiekode.whosyourdaddyandbaby",
+    "IMG2_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.kiddiekode.whosyourdaddyandbaby",
+    "IMG3_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
+    "TEXT3_URL": "https://play.google.com/store/apps/details?id=com.kiddiekode.whosyourdaddyandbaby",
+    "IMG4_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
+    "TEXT4_URL": "https://play.google.com/store/apps/details?id=com.kiddiekode.whosyourdaddyandbaby"
   }
 }
