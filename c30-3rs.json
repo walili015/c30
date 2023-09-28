@@ -1,0 +1,23 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "ca-app-pub-1792694428864484/4126206674",
+    "admobInterstitial": "",
+    "applovinBanner": "",
+    "applovinInterstitial": "ee65a4dbc1928d03",
+    "ratingactive": false,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
+    "modeads": true,
+    "IMG0_URL": "https://i.pinimg.com/originals/86/9a/f2/869af210b800bc18dc78799f7ec8b3c1.png",
+    "TEXT0_URL": "https://i.pinimg.com/originals/86/9a/f2/869af210b800bc18dc78799f7ec8b3c1.png",
+    "IMG1_URL": "https://i.pinimg.com/originals/0f/62/65/0f6265fe8dc448b8f032f161db77c033.png",
+    "TEXT1_URL": "https://i.pinimg.com/originals/0f/62/65/0f6265fe8dc448b8f032f161db77c033.png",
+    "IMG2_URL": "https://cdn-icons-png.flaticon.com/512/3841/3841714.png",
+    "TEXT2_URL": "https://cdn-icons-png.flaticon.com/512/3841/3841714.png",
+    "IMG3_URL": "https://cross-pan.netlify.app/c28-a2.jpg",
+    "TEXT3_URL": "https://cross-pan.netlify.app/c28-a2.jpg",
+    "IMG4_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
+    "TEXT4_URL": "https://cross-pan.netlify.app/c28-a5.jpg"
+  }
+}
