@@ -8,8 +8,8 @@
     "ratingactive": false,
     "appsuspand": true,
     "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
-    "modeads": false,
-    "IMG1_URL": "https://cross-pan.netlify.app/c41-1-2.jpg",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.amandatheadventurer.survival.horror.wooly"
+    "modeads": true,
+    "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.kiddiekode.whosyourdaddyandbaby"
   }
 }
