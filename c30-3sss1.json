@@ -1,24 +1,24 @@
 {
   "AdsController": {
     "adNetwork": "applovin",
-    "admobBanner": "ca-app-pub-1792694428864484/4126206674",
+    "admobBanner": "",
     "admobInterstitial": "",
     "applovinBanner": "",
-    "applovinInterstitial": "ee65a4dbc1928d03",
-    "ratingactive": false,
+    "applovinInterstitial": "11111111INTERSTITUAL",
+    "ratingactive": true,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
     "modeads": false,
-    "IMG0_URL": "https://i.pinimg.com/originals/86/9a/f2/869af210b800bc18dc78799f7ec8b3c1.png",
-    "TEXT0_URL": "https://i.pinimg.com/originals/86/9a/f2/869af210b800bc18dc78799f7ec8b3c1.png",
-    "modeads2": true,
-    "IMG1_URL": "https://i.pinimg.com/originals/0f/62/65/0f6265fe8dc448b8f032f161db77c033.png",
-    "TEXT1_URL": "https://i.pinimg.com/originals/0f/62/65/0f6265fe8dc448b8f032f161db77c033.png",
-    "IMG2_URL": "https://cdn-icons-png.flaticon.com/512/3841/3841714.png",
-    "TEXT2_URL": "https://cdn-icons-png.flaticon.com/512/3841/3841714.png",
-    "IMG3_URL": "https://cross-pan.netlify.app/c28-a2.jpg",
-    "TEXT3_URL": "https://cross-pan.netlify.app/c28-a2.jpg",
-    "IMG4_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
-    "TEXT4_URL": "https://cross-pan.netlify.app/c28-a5.jpg"
+    "IMG0_URL": "https://cross-pan.netlify.app/00-00.jpg",
+    "TEXT0_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "modeads2": false,
+    "IMG1_URL": "https://cross-pan.netlify.app/1-1.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG2_URL": "https://cross-pan.netlify.app/2-2.jpg",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG3_URL": "https://cross-pan.netlify.app/3-3.jpg",
+    "TEXT3_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG4_URL": "https://cross-pan.netlify.app/4-4.jpg",
+    "TEXT4_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX"
   }
 }
