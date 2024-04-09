@@ -5,10 +5,10 @@
     "admobInterstitial": "",
     "applovinBanner": "781645d4bc642eec",
     "applovinInterstitial": "d1530f2b7cb47e7c",
-    "ratingactive": true,
+    "ratingactive": false,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
-    "modeads": true,
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.gamesstada"
   }
