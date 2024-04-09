@@ -5,10 +5,10 @@
     "admobInterstitial": "",
     "applovinBanner": "",
     "applovinInterstitial": "4b2cee28df445710",
-    "ratingactive": true,
-    "appsuspand": true,
+    "ratingactive": false,
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=com.wallerswalls_badbabby.whoisyourdaddy2wallpapers",
-    "modeads": true,
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.gamesstada"
   }
